@@ -1,3 +1,4 @@
 проба
 пера
 or pera
+not pera
