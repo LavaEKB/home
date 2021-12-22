@@ -24,3 +24,4 @@ for i in range(r):
     for j in range(r):
         print(str(m[i][j]), end=' ')
     print() 
+# hard
